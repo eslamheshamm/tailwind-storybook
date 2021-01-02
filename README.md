@@ -1,4 +1,4 @@
-# React 😎 + Tailwind 💨 Project Starter Template 
+# React 😎 + Tailwind + Storybook Project Starter Template 
 Use until create-react-app doesn't support PostCSS 8.
 
 ## How to use?
